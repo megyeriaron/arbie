@@ -34,6 +34,7 @@ export const tradingTokens = [
   ERC20Token.USDC,
   ERC20Token.USDT,
   ERC20Token.WMATIC,
+  ERC20Token.MAI,
 ];
 
 /**

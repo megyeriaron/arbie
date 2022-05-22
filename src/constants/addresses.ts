@@ -125,6 +125,14 @@ export const ERC20Token: erc20Token = {
     logoURI:
       "https://tokens.1inch.io/0x580a84c73811e1839f75d86d75d88cca0c241ff4.png",
   },
+  MAI: {
+    symbol: "MAI",
+    name: "miMATIC",
+    decimals: 18,
+    address: "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+    logoURI:
+      "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png",
+  },
 };
 
 type PoolMap = { [pair: string]: string };

@@ -43,7 +43,7 @@ export const tradingTokens = [
  * if you have deployed your own contract, you can use it instead of the default one
  */
 export const flashloanAddress: string =
-  "0x33d8d437796bd43bdccc6740c585f4a15d1070b7";
+  "0x2BCd8b5D0825c40be52a8007A5222aE085133c68";
 
 /**
  * The bot can trade on UniswapV2 fork dexes(ex. SushiSwap) and UniswapV3
